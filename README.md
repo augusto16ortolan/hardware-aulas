@@ -13,7 +13,7 @@ Este repositório reúne os conteúdos da disciplina de **Hardware**, organizado
 
 ## Conteúdos
 
-- [CONTEÚDO 1 - Processadores RISC e CISC](conteudo-1-processadores-risc-e-cisc/README.md)
-- [CONTEÚDO 2 - Instruções de máquina](conteudo-2-instrucoes-de-maquina/README.md)
-- [CONTEÚDO 4 - Linguagem de descrição de hardware](conteudo-4-linguagem-descricao-hardware/README.md)
-- [CONTEÚDO 5 - Funções em VHDL](conteudo-5-funcoes-em-vhdl/README.md)
+- [CONTEÚDO 1 - Processadores RISC e CISC](conteudo-1/introducao-aos-processadores-risc-e-cisc.md)
+- [CONTEÚDO 2 - Instruções de máquina](conteudo-2/introducao-as-instrucoes-de-maquina.md)
+- [CONTEÚDO 4 - Linguagem de descrição de hardware](conteudo-4/introducao-a-linguagem-de-descricao-de-hardware.md)
+- [CONTEÚDO 5 - Funções em VHDL](conteudo-5/introducao-a-funcoes-em-vhdl.md)
