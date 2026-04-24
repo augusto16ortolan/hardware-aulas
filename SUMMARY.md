@@ -30,6 +30,21 @@
 * [Resumo](conteudo-2/resumo.md)
 * [Atividades](conteudo-2/atividades.md)
 
+## 💻 Conteúdo 3
+
+* [Introdução - Comparação entre Hardware de PC e Raspberry Pi](conteudo-3/introducao-comparacao-entre-hardware-de-pc-e-raspberry-pi.md)
+* [Visão geral: PC e Raspberry Pi](conteudo-3/visao-geral-pc-e-raspberry-pi.md)
+* [Arquitetura do processador](conteudo-3/arquitetura-do-processador.md)
+* [Memória e armazenamento](conteudo-3/memoria-e-armazenamento.md)
+* [Conectividade e expansão](conteudo-3/conectividade-e-expansao.md)
+* [Desempenho gráfico](conteudo-3/desempenho-grafico.md)
+* [Consumo de energia e aquecimento](conteudo-3/consumo-de-energia-e-aquecimento.md)
+* [Aplicações práticas](conteudo-3/aplicacoes-praticas.md)
+* [PC ou Raspberry Pi: como escolher?](conteudo-3/pc-ou-raspberry-pi-como-escolher.md)
+* [Estudos de caso](conteudo-3/estudo-de-caso.md)
+* [Resumo](conteudo-3/resumo.md)
+* [Atividades](conteudo-3/atividades.md)
+
 ## 💻 Conteúdo 4
 
 * [Introdução - Linguagem de descrição de hardware](conteudo-4/introducao-a-linguagem-de-descricao-de-hardware.md)
