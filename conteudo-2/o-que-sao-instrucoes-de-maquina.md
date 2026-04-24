@@ -12,10 +12,10 @@ description: >-
 
 Ela diz, por exemplo:
 
-- “some dois valores”
-- “carregue um dado da memória”
-- “compare”
-- “pule para outro ponto do programa”
+* “some dois valores”
+* “carregue um dado da memória”
+* “compare”
+* “pule para outro ponto do programa”
 
 ## Por que as instruções são representadas em binário?
 
@@ -25,7 +25,7 @@ O binário (0 e 1) é uma forma prática de representar esses estados.
 
 Então, uma instrução de máquina costuma ser um conjunto de bits, por exemplo (representação conceitual):
 
-```text
+```
 0101 0010 0001 1110
 ```
 
@@ -54,10 +54,10 @@ z = x + y;
 
 Isso pode envolver etapas como:
 
-- carregar `x` de algum lugar para um registrador,
-- carregar `y` para outro registrador,
-- somar,
-- guardar em `z`.
+* carregar `x` de algum lugar para um registrador,
+* carregar `y` para outro registrador,
+* somar,
+* guardar em `z`.
 
 Ou seja: a CPU não vê “`z = x + y;`”. Ela vê uma sequência de instruções menores.
 
@@ -67,16 +67,15 @@ As instruções do programa ficam na **memória (RAM)**, assim como os dados.
 
 Para a CPU, a memória é como uma rua com casas numeradas (endereços):
 
-- cada endereço aponta para uma parte do programa ou para um dado.
+* cada endereço aponta para uma parte do programa ou para um dado.
 
 ## Memória, registradores e unidade de controle (visão bem básica)
 
-- **Memória:** guarda instruções e dados.
-- **Registradores:** guardam valores que a CPU usa rapidamente.
-- **Unidade de controle:** coordena o “ritmo” do processador (o que fazer em cada etapa do ciclo).
-- **ULA/ALU:** faz operações aritméticas e lógicas (somar, subtrair, AND, OR…).
+* **Memória:** guarda instruções e dados.
+* **Registradores:** guardam valores que a CPU usa rapidamente.
+* **Unidade de controle:** coordena o “ritmo” do processador (o que fazer em cada etapa do ciclo).
+* **ULA/ALU:** faz operações aritméticas e lógicas (somar, subtrair, AND, OR…).
 
-> Sugestão de imagem: diagrama simples com CPU (unidade de controle + ALU + registradores) conectada à memória.
+<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 Na próxima página, vamos ver como uma instrução costuma ser “montada”: **opcode + operandos**.
-

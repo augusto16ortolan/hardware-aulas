@@ -14,13 +14,13 @@ A **CPU (Central Processing Unit)** é a parte do computador que **executa instr
 
 Uma forma simples de imaginar:
 
-- **Programa** = uma receita
-- **Instrução** = um passo da receita (“some”, “compare”, “carregue um valor”, “salve um valor”)
-- **CPU** = o cozinheiro que segue os passos
-- **Memória (RAM)** = a bancada onde ficam os ingredientes acessíveis rapidamente
-- **Armazenamento (SSD/HD)** = a despensa (muito maior, mas mais lenta)
+* **Programa** = uma receita
+* **Instrução** = um passo da receita (“some”, “compare”, “carregue um valor”, “salve um valor”)
+* **CPU** = o cozinheiro que segue os passos
+* **Memória (RAM)** = a bancada onde ficam os ingredientes acessíveis rapidamente
+* **Armazenamento (SSD/HD)** = a despensa (muito maior, mas mais lenta)
 
-> Sugestão de imagem: diagrama simples com CPU ↔ memória RAM ↔ armazenamento.
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 ## O que são instruções?
 
@@ -50,14 +50,14 @@ Quando você escreve um programa em uma linguagem de alto nível (como Python, J
 
 **Registradores** são espaços de armazenamento **muito pequenos e muito rápidos** dentro do processador.
 
-- A CPU gosta de trabalhar com registradores porque é rápido.
-- A memória RAM é maior, mas costuma ser mais lenta para acesso do que registradores.
+* A CPU gosta de trabalhar com registradores porque é rápido.
+* A memória RAM é maior, mas costuma ser mais lenta para acesso do que registradores.
 
 Uma analogia:
 
-- **Registradores** = post-its na mão do cozinheiro (ele consulta muito rápido)
-- **RAM** = a bancada (ainda é rápida, mas não tanto quanto o “na mão”)
-- **SSD/HD** = a despensa (mais lenta)
+* **Registradores** = post-its na mão do cozinheiro (ele consulta muito rápido)
+* **RAM** = a bancada (ainda é rápida, mas não tanto quanto o “na mão”)
+* **SSD/HD** = a despensa (mais lenta)
 
 ## O ciclo de instrução (buscar → entender → executar)
 
@@ -74,8 +74,8 @@ Isso acontece bilhões de vezes por segundo.
 
 A memória pode ser vista como uma grande lista de “caixinhas”, cada uma com um **endereço**.
 
-- **Endereço** = “posição” na memória
-- A CPU lê e escreve valores usando esses endereços
+* **Endereço** = “posição” na memória
+* A CPU lê e escreve valores usando esses endereços
 
 Em muitas arquiteturas, a CPU não faz tudo “direto” na memória o tempo todo. Em várias situações ela:
 
@@ -89,10 +89,9 @@ Esse ponto vai ser essencial para entender **RISC**.
 
 Se você guardar só isto:
 
-- **CPU executa instruções**
-- **registradores são o lugar mais rápido para trabalhar**
-- **memória guarda programas e dados**
-- **o ciclo fetch/decode/execute se repete sem parar**
+* **CPU executa instruções**
+* **registradores são o lugar mais rápido para trabalhar**
+* **memória guarda programas e dados**
+* **o ciclo fetch/decode/execute se repete sem parar**
 
 …você já tem a base para diferenciar **CISC** e **RISC**.
-

@@ -4,27 +4,27 @@ description: >-
   sequência do que será estudado.
 ---
 
-# CONTEÚDO 1 - Processadores RISC e CISC
+# Processadores RISC e CISC
 
 Nesta aula, vamos entender **duas grandes “famílias de ideias”** sobre como um processador pode ser projetado: **CISC** e **RISC**.
 
 A intenção aqui não é decorar siglas, e sim responder perguntas bem práticas:
 
-- Por que PCs costumam usar **x86/x86-64** (Intel/AMD)?
-- Por que celulares, tablets e o **Raspberry Pi** usam tanto **ARM**?
-- Por que alguns dispositivos priorizam **desempenho**, outros **bateria**, e outros **custo**?
+* Por que PCs costumam usar **x86/x86-64** (Intel/AMD)?
+* Por que celulares, tablets e o **Raspberry Pi** usam tanto **ARM**?
+* Por que alguns dispositivos priorizam **desempenho**, outros **bateria**, e outros **custo**?
 
-> Sugestão de imagem: linha do tempo simples (PCs/servidores → x86; móveis/embarcados → ARM), só para contextualizar.
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 ## Objetivos de aprendizagem
 
 Ao final do conteúdo, você deve ser capaz de:
 
-- Explicar, com suas palavras, o que é um **processador (CPU)** e o que são **instruções**.
-- Descrever a ideia geral de **CISC** e **RISC** (filosofia e características típicas).
-- Comparar RISC e CISC em termos de **instruções, registradores, acesso à memória, hardware e eficiência**.
-- Entender que **não existe “melhor” absoluto**: a escolha depende da aplicação.
-- Relacionar **PC**, **Raspberry Pi** e **smartphone** com suas arquiteturas mais comuns.
+* Explicar, com suas palavras, o que é um **processador (CPU)** e o que são **instruções**.
+* Descrever a ideia geral de **CISC** e **RISC** (filosofia e características típicas).
+* Comparar RISC e CISC em termos de **instruções, registradores, acesso à memória, hardware e eficiência**.
+* Entender que **não existe “melhor” absoluto**: a escolha depende da aplicação.
+* Relacionar **PC**, **Raspberry Pi** e **smartphone** com suas arquiteturas mais comuns.
 
 ## O que será estudado (sequência)
 
@@ -41,10 +41,9 @@ Ao final do conteúdo, você deve ser capaz de:
 
 Você já usa RISC e CISC todos os dias, mesmo sem perceber:
 
-- **Computadores e notebooks (PCs):** em geral com processadores Intel Core / AMD Ryzen (família **x86-64**).
-- **Servidores (datacenters):** muitos usam x86-64 (Intel Xeon / AMD EPYC), e alguns também usam ARM dependendo do caso.
-- **Smartphones e tablets:** quase sempre **ARM**, buscando bom desempenho com baixo consumo.
-- **Raspberry Pi e vários sistemas embarcados:** geralmente **ARM**, focando custo, consumo e flexibilidade.
+* **Computadores e notebooks (PCs):** em geral com processadores Intel Core / AMD Ryzen (família **x86-64**).
+* **Servidores (datacenters):** muitos usam x86-64 (Intel Xeon / AMD EPYC), e alguns também usam ARM dependendo do caso.
+* **Smartphones e tablets:** quase sempre **ARM**, buscando bom desempenho com baixo consumo.
+* **Raspberry Pi e vários sistemas embarcados:** geralmente **ARM**, focando custo, consumo e flexibilidade.
 
 Nas próximas páginas, vamos construir esse entendimento passo a passo.
-
