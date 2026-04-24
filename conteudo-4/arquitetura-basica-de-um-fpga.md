@@ -15,6 +15,8 @@ Em nível introdutório, um FPGA pode ser visto como:
 * blocos de entrada e saída;
 * recursos especializados (memória e DSP).
 
+<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+
 ## Componentes principais (explicação curta)
 
 ### CLB (Configurable Logic Block)
@@ -87,4 +89,4 @@ Eles ajudam a acelerar cálculos e economizar recursos lógicos (LUTs).
 | Memória interna | Armazenar dados                         | Buffer de amostras, filas       |
 | Bloco DSP       | Operações matemáticas eficientes        | MAC em filtros e IA             |
 
-<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>

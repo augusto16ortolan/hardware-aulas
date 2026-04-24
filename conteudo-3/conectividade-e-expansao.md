@@ -36,6 +36,8 @@ O Raspberry Pi também tem conectividade (USB, HDMI, rede, dependendo do modelo)
 
 * os **GPIOs**.
 
+<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+
 ### O que é GPIO?
 
 **GPIO** significa **General Purpose Input/Output** (entrada/saída de uso geral).
@@ -62,4 +64,4 @@ Com isso, o Raspberry Pi é muito usado para:
 | Expansão interna | Alta (principalmente desktop) | Limitada                             |
 | Diferencial      | Upgrades e placas de expansão | GPIO para sensores/atuadores         |
 
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>

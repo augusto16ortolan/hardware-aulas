@@ -18,12 +18,12 @@ Porque eles deixam as instruções mais flexíveis.
 
 Exemplos do dia a dia:
 
-- às vezes o dado está “no próprio comando” (imediato),
-- às vezes está em um endereço fixo (direto),
-- às vezes o endereço está dentro de um registrador (indireto),
-- às vezes você quer acessar um “vetor” com índice (indexado),
-- às vezes quer saltar “um pouco para frente” no código (relativo),
-- às vezes quer usar a pilha para chamadas de função (por pilha).
+* às vezes o dado está “no próprio comando” (imediato),
+* às vezes está em um endereço fixo (direto),
+* às vezes o endereço está dentro de um registrador (indireto),
+* às vezes você quer acessar um “vetor” com índice (indexado),
+* às vezes quer saltar “um pouco para frente” no código (relativo),
+* às vezes quer usar a pilha para chamadas de função (por pilha).
 
 > Observação: os exemplos abaixo usam sintaxes inspiradas em várias arquiteturas, apenas para ilustrar o conceito.
 
@@ -37,9 +37,9 @@ MOV AX, 10
 
 Quando é útil:
 
-- inicializar variáveis,
-- somar constantes,
-- configurar valores fixos.
+* inicializar variáveis,
+* somar constantes,
+* configurar valores fixos.
 
 ## 2) Endereçamento direto
 
@@ -51,12 +51,12 @@ MOV AX, [1234h]
 
 Leitura conceitual:
 
-- “Pegue o que está na memória no endereço 1234h e coloque em AX”.
+* “Pegue o que está na memória no endereço 1234h e coloque em AX”.
 
 Quando é útil:
 
-- acessar uma variável em endereço conhecido (em sistemas simples),
-- ler uma posição específica de memória mapeada (hardware).
+* acessar uma variável em endereço conhecido (em sistemas simples),
+* ler uma posição específica de memória mapeada (hardware).
 
 ## 3) Endereçamento indireto
 
@@ -68,13 +68,13 @@ MOV AX, [BX]
 
 Leitura conceitual:
 
-- “BX contém um endereço; use esse endereço para buscar o dado”.
+* “BX contém um endereço; use esse endereço para buscar o dado”.
 
 Quando é útil:
 
-- percorrer arrays/vetores,
-- trabalhar com ponteiros,
-- percorrer estruturas em memória.
+* percorrer arrays/vetores,
+* trabalhar com ponteiros,
+* percorrer estruturas em memória.
 
 ## 4) Endereçamento indexado
 
@@ -86,12 +86,12 @@ MOV AX, [BX + SI + 10]
 
 Leitura conceitual:
 
-- “Endereço = BX + SI + 10; leia a memória nesse endereço”.
+* “Endereço = BX + SI + 10; leia a memória nesse endereço”.
 
 Quando é útil:
 
-- acessar elementos de matrizes/vetores,
-- estruturas com campos em offsets (deslocamentos).
+* acessar elementos de matrizes/vetores,
+* estruturas com campos em offsets (deslocamentos).
 
 ## 5) Endereçamento relativo
 
@@ -103,20 +103,20 @@ JMP SHORT +10
 
 Leitura conceitual:
 
-- “Pule 10 unidades de instrução (ou bytes) à frente”.
+* “Pule 10 unidades de instrução (ou bytes) à frente”.
 
 Quando é útil:
 
-- `if/else`,
-- laços,
-- manter código mais compacto (depende da ISA).
+* `if/else`,
+* laços,
+* manter código mais compacto (depende da ISA).
 
 ## 6) Endereçamento por pilha
 
 A **pilha (stack)** é uma região de memória usada como “pilha de pratos”:
 
-- `PUSH` coloca algo no topo,
-- `POP` retira do topo.
+* `PUSH` coloca algo no topo,
+* `POP` retira do topo.
 
 ```asm
 PUSH R1
@@ -125,14 +125,15 @@ POP R1
 
 Quando é útil:
 
-- salvar estados temporariamente,
-- chamadas de função (guardar retorno, parâmetros),
-- interrupções (em muitos sistemas).
+* salvar estados temporariamente,
+* chamadas de função (guardar retorno, parâmetros),
+* interrupções (em muitos sistemas).
 
 ## Ligando com RISC e CISC (leve)
 
-- Em arquiteturas historicamente associadas a **CISC**, costuma existir uma variedade grande de modos de endereçamento.
-- Em arquiteturas **RISC**, a tendência clássica é manter as instruções mais uniformes e controlar com mais clareza quando há acesso à memória.
+* Em arquiteturas historicamente associadas a **CISC**, costuma existir uma variedade grande de modos de endereçamento.
+* Em arquiteturas **RISC**, a tendência clássica é manter as instruções mais uniformes e controlar com mais clareza quando há acesso à memória.
 
 Na próxima página, vamos ver como uma instrução pode ser dividida em **campos** (formato de instrução).
 
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>

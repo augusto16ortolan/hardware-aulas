@@ -32,7 +32,7 @@ Ao final do conteúdo, você deve conseguir:
 * Compreender a diferença entre **comandos concorrentes**, **comandos sequenciais** e **funções**.
 * Interpretar funções aplicadas a exemplos práticos (soma, comparação de vetores e conversão para display de 7 segmentos).
 
-<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## O que será estudado (sequência)
 

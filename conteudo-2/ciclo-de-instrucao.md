@@ -15,7 +15,7 @@ O processador executa um programa repetindo um ciclo básico para cada instruç�
 3. **Execução (execute)**
 4. **Armazenamento/Escrita do resultado (write-back)**
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Componentes citados (bem introdutório)
 

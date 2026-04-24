@@ -20,7 +20,7 @@ Uma forma simples de imaginar:
 * **Memória (RAM)** = a bancada onde ficam os ingredientes acessíveis rapidamente
 * **Armazenamento (SSD/HD)** = a despensa (muito maior, mas mais lenta)
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## O que são instruções?
 
@@ -95,3 +95,5 @@ Se você guardar só isto:
 * **o ciclo fetch/decode/execute se repete sem parar**
 
 …você já tem a base para diferenciar **CISC** e **RISC**.
+
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>

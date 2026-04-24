@@ -76,6 +76,6 @@ Para a CPU, a memória é como uma rua com casas numeradas (endereços):
 * **Unidade de controle:** coordena o “ritmo” do processador (o que fazer em cada etapa do ciclo).
 * **ULA/ALU:** faz operações aritméticas e lógicas (somar, subtrair, AND, OR…).
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
 Na próxima página, vamos ver como uma instrução costuma ser “montada”: **opcode + operandos**.

@@ -10,7 +10,6 @@
 * [Arquitetura CISC](conteudo-1/arquitetura-cisc.md)
 * [Arquitetura RISC](conteudo-1/arquitetura-risc.md)
 * [Comparação RISC e CISC](conteudo-1/comparacao-risc-cisc.md)
-* [PC, Raspberry Pi e dispositivos móveis](conteudo-1/pc-raspberry-pi-e-dispositivos-moveis.md)
 * [Vamos para a prática?](conteudo-1/vamos-para-a-pratica.md)
 * [Resumo](conteudo-1/resumo.md)
 * [Atividades](conteudo-1/atividades.md)

@@ -67,4 +67,4 @@ Importante:
 | Uso profissional             | Muito comum                   | Em nichos específicos                          |
 | Facilidade para prototipagem | Média (depende do objetivo)   | Alta (GPIO e projetos físicos)                 |
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>

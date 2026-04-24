@@ -6,6 +6,8 @@ description: >-
 
 # Hardware Architecture
 
+<figure><img src=".gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+
 O objetivo do material é te ajudar a entender, de forma progressiva e prática:
 
 * como componentes e arquiteturas de computadores se relacionam (CPU, memória, armazenamento, I/O);

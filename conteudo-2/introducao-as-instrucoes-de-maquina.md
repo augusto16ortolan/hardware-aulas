@@ -15,7 +15,7 @@ Agora vamos dar um passo a mais e entender o que, de fato, chega até o processa
 * como uma instrução é representada (normalmente em **binário**);
 * como a CPU **busca, decodifica e executa** instruções.
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Objetivos de aprendizagem
 

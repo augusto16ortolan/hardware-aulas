@@ -14,7 +14,7 @@ A intenção aqui não é decorar siglas, e sim responder perguntas bem prática
 * Por que celulares, tablets e o **Raspberry Pi** usam tanto **ARM**?
 * Por que alguns dispositivos priorizam **desempenho**, outros **bateria**, e outros **custo**?
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
 ## Objetivos de aprendizagem
 

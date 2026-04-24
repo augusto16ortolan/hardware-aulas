@@ -57,7 +57,7 @@ Quando o circuito cresce, o desenho vira um “emaranhado”:
 
 O resultado é parecido com tentar entender um software grande olhando apenas para um fluxograma gigante.
 
-<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Implementação física: diagrama não é o mesmo que montagem
 
