@@ -1,3 +1,9 @@
+---
+description: >-
+  Nesta página do Conteúdo 5, você vai entender ferramentas para hdl de forma
+  progressiva, com foco no essencial para iniciantes.
+---
+
 # Ferramentas para HDL
 
 Para trabalhar com HDL, normalmente usamos ferramentas que ajudam em etapas diferentes.

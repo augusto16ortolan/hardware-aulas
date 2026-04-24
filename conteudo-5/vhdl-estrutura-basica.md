@@ -1,3 +1,9 @@
+---
+description: >-
+  Nesta página do Conteúdo 5, você vai entender estrutura básica do vhdl
+  (introdução) de forma progressiva, com foco no essencial para iniciantes.
+---
+
 # Estrutura básica do VHDL (introdução)
 
 ## O que é VHDL?

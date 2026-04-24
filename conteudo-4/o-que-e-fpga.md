@@ -1,3 +1,9 @@
+---
+description: >-
+  Explicação introdutória de "O que é FPGA?", definindo o conceito e mostrando por
+  que ele é importante neste conteúdo.
+---
+
 # O que é FPGA?
 
 ## Significado

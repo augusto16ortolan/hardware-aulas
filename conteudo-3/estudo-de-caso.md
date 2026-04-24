@@ -1,3 +1,9 @@
+---
+description: >-
+  Nesta página do Conteúdo 3, você vai entender estudos de caso (para discussão)
+  de forma progressiva, com foco no essencial para iniciantes.
+---
+
 # Estudos de caso (para discussão)
 
 Use os casos abaixo para discutir em sala. A ideia é treinar o raciocínio: **qual plataforma atende melhor o objetivo e por quê?**

@@ -1,3 +1,9 @@
+---
+description: >-
+  Nesta página do Conteúdo 3, você vai entender desempenho gráfico de forma
+  progressiva, com foco no essencial para iniciantes.
+---
+
 # Desempenho gráfico
 
 Quando falamos em “gráficos”, estamos falando principalmente do trabalho feito pela **GPU** (unidade de processamento gráfico).

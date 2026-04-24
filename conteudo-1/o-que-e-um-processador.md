@@ -1,3 +1,9 @@
+---
+description: >-
+  Explicação introdutória de "O que é um processador?", definindo o conceito e
+  mostrando por que ele é importante neste conteúdo.
+---
+
 # O que é um processador?
 
 Antes de falar em RISC e CISC, precisamos entender **o que um processador faz**.

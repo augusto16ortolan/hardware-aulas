@@ -1,3 +1,9 @@
+---
+description: >-
+  Nesta página do Conteúdo 5, você vai entender máquinas de estados finitos (fsm)
+  de forma progressiva, com foco no essencial para iniciantes.
+---
+
 # Máquinas de estados finitos (FSM)
 
 ## O que é uma FSM?

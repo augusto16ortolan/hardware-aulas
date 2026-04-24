@@ -1,3 +1,9 @@
+---
+description: >-
+  Exercícios para fixar os conceitos do Conteúdo 6, com gabarito ao final para
+  você conferir seu aprendizado.
+---
+
 # Atividades
 
 ## Parte A — Questões discursivas (curtas)

@@ -1,3 +1,9 @@
+---
+description: >-
+  Nesta página do Conteúdo 5, você vai entender descrição estrutural e
+  comportamental de forma progressiva, com foco no essencial para iniciantes.
+---
+
 # Descrição estrutural e comportamental
 
 Ao descrever hardware, você pode explicar:

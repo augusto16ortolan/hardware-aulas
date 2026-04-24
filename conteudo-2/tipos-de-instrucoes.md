@@ -1,3 +1,9 @@
+---
+description: >-
+  Nesta página do Conteúdo 2, você vai entender tipos de instruções (categorias)
+  de forma progressiva, com foco no essencial para iniciantes.
+---
+
 # Tipos de instruções (categorias)
 
 Uma forma fácil de estudar instruções é agrupar por **objetivo**. Aqui vamos ver as categorias mais comuns, com exemplos conceituais.

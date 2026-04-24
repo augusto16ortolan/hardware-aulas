@@ -1,3 +1,9 @@
+---
+description: >-
+  Nesta página do Conteúdo 4, você vai entender aplicações de dsp em fpgas de
+  forma progressiva, com foco no essencial para iniciantes.
+---
+
 # Aplicações de DSP em FPGAs
 
 FPGAs com blocos DSP aparecem quando precisamos processar sinais com:

@@ -1,3 +1,10 @@
+---
+description: >-
+  Nesta página do Conteúdo 6, você vai entender exemplo prático: função para
+  display de 7 segmentos de forma progressiva, com foco no essencial para
+  iniciantes.
+---
+
 # Exemplo prático: função para display de 7 segmentos
 
 Um display de 7 segmentos tem 7 “barrinhas” (segmentos) que podem ser ligadas/desligadas para formar números.

@@ -1,3 +1,9 @@
+---
+description: >-
+  Nesta página do Conteúdo 6, você vai entender função dentro da `architecture` de
+  forma progressiva, com foco no essencial para iniciantes.
+---
+
 # Função dentro da `architecture`
 
 ## Onde uma função pode ser declarada?

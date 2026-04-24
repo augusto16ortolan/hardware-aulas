@@ -1,3 +1,9 @@
+---
+description: >-
+  Nesta página do Conteúdo 4, você vai entender paralelismo em fpga para dsp de
+  forma progressiva, com foco no essencial para iniciantes.
+---
+
 # Paralelismo em FPGA para DSP
 
 ## O que é paralelismo?

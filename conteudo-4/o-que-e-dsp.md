@@ -1,3 +1,9 @@
+---
+description: >-
+  Explicação introdutória de "O que é DSP?", definindo o conceito e mostrando por
+  que ele é importante neste conteúdo.
+---
+
 # O que é DSP?
 
 ## Significado

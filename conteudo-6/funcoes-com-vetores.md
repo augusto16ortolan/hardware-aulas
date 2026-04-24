@@ -1,3 +1,9 @@
+---
+description: >-
+  Nesta página do Conteúdo 6, você vai entender funções com vetores (`bit_vector`)
+  de forma progressiva, com foco no essencial para iniciantes.
+---
+
 # Funções com vetores (`bit_vector`)
 
 Funções podem receber vetores e retornar valores baseados nesses vetores.

@@ -1,3 +1,9 @@
+---
+description: >-
+  Nesta página do Conteúdo 5, você vai entender por que descrever hardware? de
+  forma progressiva, com foco no essencial para iniciantes.
+---
+
 # Por que descrever hardware?
 
 Antes de existir HDL, e ainda hoje em circuitos pequenos, é comum pensar em hardware como:

@@ -1,3 +1,9 @@
+---
+description: >-
+  Nesta página do Conteúdo 6, você vai entender exemplo prático: cronômetro
+  simples (0 a 9) de forma progressiva, com foco no essencial para iniciantes.
+---
+
 # Exemplo prático: cronômetro simples (0 a 9)
 
 Agora vamos juntar:

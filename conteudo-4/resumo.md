@@ -1,3 +1,9 @@
+---
+description: >-
+  Recapitulação dos principais pontos do Conteúdo 4, com uma síntese do que você
+  precisa lembrar antes de seguir.
+---
+
 # Resumo
 
 ## Recapitulação dos principais pontos

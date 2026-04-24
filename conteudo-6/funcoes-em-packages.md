@@ -1,3 +1,9 @@
+---
+description: >-
+  Nesta página do Conteúdo 6, você vai entender funções em `packages`
+  (reutilização) de forma progressiva, com foco no essencial para iniciantes.
+---
+
 # Funções em `packages` (reutilização)
 
 ## O que é um `package` em VHDL?

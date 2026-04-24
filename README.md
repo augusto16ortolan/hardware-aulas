@@ -1,3 +1,9 @@
+---
+description: >-
+  Visão geral do material da disciplina de Hardware e um guia rápido de como
+  navegar pelos conteúdos no GitBook.
+---
+
 # Hardware - Materiais de Aula
 
 Este repositório reúne os conteúdos da disciplina de **Hardware**, organizados em páginas Markdown compatíveis com GitBook.

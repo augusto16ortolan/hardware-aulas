@@ -1,3 +1,9 @@
+---
+description: >-
+  Nesta página do Conteúdo 6, você vai entender sintaxe básica de funções de forma
+  progressiva, com foco no essencial para iniciantes.
+---
+
 # Sintaxe básica de funções
 
 ## Estrutura geral

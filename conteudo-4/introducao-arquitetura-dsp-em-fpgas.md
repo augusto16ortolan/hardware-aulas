@@ -1,3 +1,9 @@
+---
+description: >-
+  Introdução e visão geral do Conteúdo 4, com objetivos de aprendizagem e a
+  sequência do que será estudado.
+---
+
 # CONTEÚDO 4 - Arquitetura DSP em FPGAs
 
 Nos conteúdos anteriores, você viu conceitos importantes de hardware e arquitetura:

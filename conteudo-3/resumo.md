@@ -1,3 +1,9 @@
+---
+description: >-
+  Recapitulação dos principais pontos do Conteúdo 3, com uma síntese do que você
+  precisa lembrar antes de seguir.
+---
+
 # Resumo
 
 ## Recapitulando os pontos principais

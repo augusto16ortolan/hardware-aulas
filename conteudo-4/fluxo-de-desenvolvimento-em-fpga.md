@@ -1,3 +1,9 @@
+---
+description: >-
+  Nesta página do Conteúdo 4, você vai entender fluxo de desenvolvimento em fpga
+  (visão básica) de forma progressiva, com foco no essencial para iniciantes.
+---
+
 # Fluxo de desenvolvimento em FPGA (visão básica)
 
 Projetar para FPGA envolve um fluxo de etapas. Você não “compila e roda” como um programa comum: você descreve hardware e gera uma configuração para o chip.

@@ -1,3 +1,9 @@
+---
+description: >-
+  Nesta página do Conteúdo 3, você vai entender consumo de energia e aquecimento
+  de forma progressiva, com foco no essencial para iniciantes.
+---
+
 # Consumo de energia e aquecimento
 
 Uma diferença bem prática entre um PC e um Raspberry Pi é o quanto cada um consome de energia e como isso afeta aquecimento e refrigeração.

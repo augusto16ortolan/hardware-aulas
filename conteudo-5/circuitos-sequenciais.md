@@ -1,3 +1,9 @@
+---
+description: >-
+  Nesta página do Conteúdo 5, você vai entender circuitos sequenciais de forma
+  progressiva, com foco no essencial para iniciantes.
+---
+
 # Circuitos sequenciais
 
 Até agora falamos de combinacional: saída depende apenas das entradas atuais.

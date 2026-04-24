@@ -1,3 +1,9 @@
+---
+description: >-
+  Nesta página do Conteúdo 4, você vai entender blocos dsp em fpgas de forma
+  progressiva, com foco no essencial para iniciantes.
+---
+
 # Blocos DSP em FPGAs
 
 ## O que são blocos DSP dentro de um FPGA?

@@ -1,3 +1,9 @@
+---
+description: >-
+  Nesta página do Conteúdo 3, você vai entender pc ou raspberry pi: como escolher?
+  de forma progressiva, com foco no essencial para iniciantes.
+---
+
 # PC ou Raspberry Pi: como escolher?
 
 Até aqui, você viu que não existe “melhor absoluto”.

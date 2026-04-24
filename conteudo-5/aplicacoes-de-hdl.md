@@ -1,3 +1,9 @@
+---
+description: >-
+  Nesta página do Conteúdo 5, você vai entender aplicações de hdl de forma
+  progressiva, com foco no essencial para iniciantes.
+---
+
 # Aplicações de HDL
 
 HDLs aparecem em diversos contextos onde precisamos projetar e validar circuitos digitais.

@@ -1,3 +1,9 @@
+---
+description: >-
+  Nesta página do Conteúdo 3, você vai entender arquitetura do processador de
+  forma progressiva, com foco no essencial para iniciantes.
+---
+
 # Arquitetura do processador
 
 Uma das diferenças mais importantes entre um PC e um Raspberry Pi está no **tipo de processador** (e na arquitetura) que eles usam.

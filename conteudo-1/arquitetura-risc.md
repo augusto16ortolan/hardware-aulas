@@ -1,3 +1,9 @@
+---
+description: >-
+  Nesta página do Conteúdo 1, você vai entender arquitetura risc de forma
+  progressiva, com foco no essencial para iniciantes.
+---
+
 # Arquitetura RISC
 
 ## O que significa RISC?

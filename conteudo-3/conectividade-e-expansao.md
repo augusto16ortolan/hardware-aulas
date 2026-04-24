@@ -1,3 +1,9 @@
+---
+description: >-
+  Nesta página do Conteúdo 3, você vai entender conectividade e expansão de forma
+  progressiva, com foco no essencial para iniciantes.
+---
+
 # Conectividade e expansão
 
 Aqui vamos responder duas perguntas:

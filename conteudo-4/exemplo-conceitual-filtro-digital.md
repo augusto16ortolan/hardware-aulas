@@ -1,3 +1,9 @@
+---
+description: >-
+  Nesta página do Conteúdo 4, você vai entender exemplo conceitual: filtro digital
+  de forma progressiva, com foco no essencial para iniciantes.
+---
+
 # Exemplo conceitual: filtro digital
 
 Aqui vamos ver um padrão clássico de DSP sem entrar em VHDL avançado.

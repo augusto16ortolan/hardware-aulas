@@ -1,3 +1,10 @@
+---
+description: >-
+  Nesta página do Conteúdo 6, você vai entender parâmetros, retorno e variáveis (e
+  `signal` vs `variable`) de forma progressiva, com foco no essencial para
+  iniciantes.
+---
+
 # Parâmetros, retorno e variáveis (e `signal` vs `variable`)
 
 ## O que são parâmetros?

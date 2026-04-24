@@ -1,3 +1,9 @@
+---
+description: >-
+  Introdução e visão geral do Conteúdo 5, com objetivos de aprendizagem e a
+  sequência do que será estudado.
+---
+
 # CONTEÚDO 4 - Linguagem de descrição de hardware
 
 Até agora, você estudou que computadores executam instruções e que existe uma grande variedade de arquiteturas. Agora vamos mudar um pouco o foco:

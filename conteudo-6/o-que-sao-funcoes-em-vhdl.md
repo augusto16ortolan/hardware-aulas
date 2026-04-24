@@ -1,3 +1,9 @@
+---
+description: >-
+  Nesta página do Conteúdo 6, você vai entender o que são funções em vhdl? de
+  forma progressiva, com foco no essencial para iniciantes.
+---
+
 # O que são funções em VHDL?
 
 ## Definição

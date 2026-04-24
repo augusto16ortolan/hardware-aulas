@@ -1,3 +1,9 @@
+---
+description: >-
+  Introdução e visão geral do Conteúdo 6, com objetivos de aprendizagem e a
+  sequência do que será estudado.
+---
+
 # CONTEÚDO 5 - Funções em VHDL
 
 No conteúdo anterior, você viu que VHDL é uma **linguagem de descrição de hardware**: a ideia é descrever circuitos (sinais, entradas, saídas e comportamento), e não escrever um “programa” para rodar em uma CPU.

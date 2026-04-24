@@ -1,3 +1,9 @@
+---
+description: >-
+  Nesta página do Conteúdo 3, você vai entender memória e armazenamento de forma
+  progressiva, com foco no essencial para iniciantes.
+---
+
 # Memória e armazenamento
 
 Muita gente confunde esses dois termos, então vamos começar do começo.

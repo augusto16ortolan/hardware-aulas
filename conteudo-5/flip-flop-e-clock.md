@@ -1,3 +1,9 @@
+---
+description: >-
+  Nesta página do Conteúdo 5, você vai entender flip-flop e clock (introdução) de
+  forma progressiva, com foco no essencial para iniciantes.
+---
+
 # Flip-flop e clock (introdução)
 
 ## O que é clock?

@@ -1,3 +1,9 @@
+---
+description: >-
+  Nesta página do Conteúdo 6, você vai entender funções e síntese (simulação vs
+  hardware real) de forma progressiva, com foco no essencial para iniciantes.
+---
+
 # Funções e síntese (simulação vs hardware real)
 
 ## Relembrando: simulação e síntese

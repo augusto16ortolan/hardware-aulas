@@ -1,3 +1,9 @@
+---
+description: >-
+  Explicação introdutória de "O que é HDL?", definindo o conceito e mostrando por
+  que ele é importante neste conteúdo.
+---
+
 # O que é HDL?
 
 ## O que significa HDL?

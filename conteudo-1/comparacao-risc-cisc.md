@@ -1,3 +1,9 @@
+---
+description: >-
+  Nesta página do Conteúdo 1, você vai entender comparação risc e cisc de forma
+  progressiva, com foco no essencial para iniciantes.
+---
+
 # Comparação RISC e CISC
 
 Agora que você já viu as ideias gerais, vamos comparar de forma direta.

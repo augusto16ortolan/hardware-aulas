@@ -1,3 +1,9 @@
+---
+description: >-
+  Nesta página do Conteúdo 5, você vai entender estruturas condicionais em vhdl
+  (introdução) de forma progressiva, com foco no essencial para iniciantes.
+---
+
 # Estruturas condicionais em VHDL (introdução)
 
 Em VHDL, existem formas diferentes de descrever lógica combinacional por “regras”.

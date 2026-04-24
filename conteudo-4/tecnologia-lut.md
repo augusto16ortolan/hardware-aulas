@@ -1,3 +1,9 @@
+---
+description: >-
+  Nesta página do Conteúdo 4, você vai entender tecnologia lut de forma
+  progressiva, com foco no essencial para iniciantes.
+---
+
 # Tecnologia LUT
 
 ## O que é LUT?

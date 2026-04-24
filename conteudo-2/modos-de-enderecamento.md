@@ -1,3 +1,9 @@
+---
+description: >-
+  Nesta página do Conteúdo 2, você vai entender modos de endereçamento de forma
+  progressiva, com foco no essencial para iniciantes.
+---
+
 # Modos de endereçamento
 
 Quando a CPU executa uma instrução, ela precisa saber:

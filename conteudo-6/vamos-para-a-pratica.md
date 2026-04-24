@@ -1,3 +1,9 @@
+---
+description: >-
+  Atividade prática guiada do Conteúdo 6 para aplicar os conceitos de forma
+  objetiva e consolidar o aprendizado.
+---
+
 # Vamos para a prática?
 
 Neste conteúdo, você viu como **funções em VHDL** ajudam a organizar a lógica e evitar repetição.

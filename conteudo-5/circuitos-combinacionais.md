@@ -1,3 +1,9 @@
+---
+description: >-
+  Nesta página do Conteúdo 5, você vai entender circuitos combinacionais de forma
+  progressiva, com foco no essencial para iniciantes.
+---
+
 # Circuitos combinacionais
 
 ## O que são circuitos combinacionais?

@@ -1,3 +1,9 @@
+---
+description: >-
+  Nesta página do Conteúdo 2, você vai entender opcode e operandos de forma
+  progressiva, com foco no essencial para iniciantes.
+---
+
 # Opcode e operandos
 
 Uma instrução, em geral, pode ser vista como:

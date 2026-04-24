@@ -1,3 +1,9 @@
+---
+description: >-
+  Nesta página do Conteúdo 1, você vai entender pc, raspberry pi e dispositivos
+  móveis de forma progressiva, com foco no essencial para iniciantes.
+---
+
 # PC, Raspberry Pi e dispositivos móveis
 
 Até aqui, falamos de ideias. Agora vamos conectar com o mundo real: por que cada tipo de dispositivo costuma usar uma arquitetura?

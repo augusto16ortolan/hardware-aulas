@@ -1,3 +1,10 @@
+---
+description: >-
+  Nesta página do Conteúdo 6, você vai entender revisão: comandos em vhdl
+  (concorrentes e sequenciais) de forma progressiva, com foco no essencial para
+  iniciantes.
+---
+
 # Revisão: comandos em VHDL (concorrentes e sequenciais)
 
 Antes de entrar em funções, vale uma revisão rápida para não confundir VHDL com uma linguagem de programação tradicional.

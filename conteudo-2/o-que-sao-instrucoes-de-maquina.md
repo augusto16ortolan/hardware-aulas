@@ -1,3 +1,9 @@
+---
+description: >-
+  Nesta página do Conteúdo 2, você vai entender o que são instruções de máquina?
+  de forma progressiva, com foco no essencial para iniciantes.
+---
+
 # O que são instruções de máquina?
 
 ## Definição simples

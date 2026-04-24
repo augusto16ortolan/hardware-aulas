@@ -1,3 +1,9 @@
+---
+description: >-
+  Introdução e visão geral do Conteúdo 2, com objetivos de aprendizagem e a
+  sequência do que será estudado.
+---
+
 # CONTEÚDO 2 - Instruções de máquina
 
 No conteúdo anterior, você viu que a CPU executa **instruções** e que arquiteturas como **RISC** e **CISC** organizam esse “vocabulário” de maneiras diferentes.

@@ -1,3 +1,9 @@
+---
+description: >-
+  Nesta página do Conteúdo 4, você vai entender cpld vs fpga de forma progressiva,
+  com foco no essencial para iniciantes.
+---
+
 # CPLD vs FPGA
 
 Tanto **CPLDs** quanto **FPGAs** são dispositivos lógicos programáveis, mas são usados em cenários diferentes.

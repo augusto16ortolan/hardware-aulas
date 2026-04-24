@@ -1,3 +1,9 @@
+---
+description: >-
+  Nesta página do Conteúdo 2, você vai entender do código ao processador de forma
+  progressiva, com foco no essencial para iniciantes.
+---
+
 # Do código ao processador
 
 Nesta aula, a pergunta central é:

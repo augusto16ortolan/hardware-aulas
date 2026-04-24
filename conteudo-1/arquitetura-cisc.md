@@ -1,3 +1,9 @@
+---
+description: >-
+  Nesta página do Conteúdo 1, você vai entender arquitetura cisc de forma
+  progressiva, com foco no essencial para iniciantes.
+---
+
 # Arquitetura CISC
 
 ## O que significa CISC?

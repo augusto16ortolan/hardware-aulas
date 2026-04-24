@@ -1,3 +1,9 @@
+---
+description: >-
+  Nesta página do Conteúdo 4, você vai entender classificação dos plds (visão
+  introdutória) de forma progressiva, com foco no essencial para iniciantes.
+---
+
 # Classificação dos PLDs (visão introdutória)
 
 PLDs podem ser organizados em uma “família” de dispositivos, desde opções bem simples até as mais complexas.

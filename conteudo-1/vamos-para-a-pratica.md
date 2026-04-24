@@ -1,3 +1,9 @@
+---
+description: >-
+  Atividade prática guiada do Conteúdo 1 para aplicar os conceitos de forma
+  objetiva e consolidar o aprendizado.
+---
+
 # Exemplo prático (conceitual)
 
 Nesta página, vamos usar um **pseudo-assembly** (exemplo conceitual) para comparar a ideia de “uma instrução faz bastante coisa” versus “quebrar em passos menores”.

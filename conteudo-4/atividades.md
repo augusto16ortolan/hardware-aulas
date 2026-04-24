@@ -1,3 +1,9 @@
+---
+description: >-
+  Exercícios para fixar os conceitos do Conteúdo 4, com gabarito ao final para
+  você conferir seu aprendizado.
+---
+
 # Atividades (com gabarito)
 
 ## Parte 1 — Questões discursivas curtas (8)

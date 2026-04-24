@@ -1,3 +1,9 @@
+---
+description: >-
+  Atividade prática guiada do Conteúdo 5 para aplicar os conceitos de forma
+  objetiva e consolidar o aprendizado.
+---
+
 # Vamos para a prática?
 
 Agora que você já viu os conceitos iniciais de HDL e VHDL, a ideia aqui é **colocar a mão na massa** com um exemplo bem simples.

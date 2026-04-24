@@ -1,3 +1,10 @@
+---
+description: >-
+  Nesta página do Conteúdo 2, você vai entender instruções em arquiteturas
+  diferentes (x86, arm, mips) de forma progressiva, com foco no essencial para
+  iniciantes.
+---
+
 # Instruções em arquiteturas diferentes (x86, ARM, MIPS)
 
 ## Cada arquitetura tem sua própria ISA

@@ -1,3 +1,9 @@
+---
+description: >-
+  Nesta página do Conteúdo 3, você vai entender aplicações práticas de forma
+  progressiva, com foco no essencial para iniciantes.
+---
+
 # Aplicações práticas
 
 Agora que você já comparou componentes e características, vamos traduzir isso para situações do mundo real.

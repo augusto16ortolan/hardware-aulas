@@ -1,3 +1,9 @@
+---
+description: >-
+  Atividade prática guiada do Conteúdo 2 para aplicar os conceitos de forma
+  objetiva e consolidar o aprendizado.
+---
+
 # Exemplo prático com Assembly (conceitual)
 
 Nesta página, vamos usar exemplos de “assembly conceitual” para praticar leitura.

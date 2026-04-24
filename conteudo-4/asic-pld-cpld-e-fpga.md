@@ -1,3 +1,9 @@
+---
+description: >-
+  Nesta página do Conteúdo 4, você vai entender asic, pld, cpld e fpga de forma
+  progressiva, com foco no essencial para iniciantes.
+---
+
 # ASIC, PLD, CPLD e FPGA
 
 Antes de focar em FPGAs, vale entender como eles se comparam com outras opções.

@@ -1,3 +1,10 @@
+---
+description: >-
+  Nesta página do Conteúdo 4, você vai entender critérios de escolha: quando fpga
+  com dsp faz sentido? de forma progressiva, com foco no essencial para
+  iniciantes.
+---
+
 # Critérios de escolha: quando FPGA com DSP faz sentido?
 
 FPGA é poderoso, mas não é a escolha certa para tudo.

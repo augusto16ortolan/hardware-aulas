@@ -1,3 +1,9 @@
+---
+description: >-
+  Nesta página do Conteúdo 2, você vai entender ciclo de instrução de forma
+  progressiva, com foco no essencial para iniciantes.
+---
+
 # Ciclo de instrução
 
 O processador executa um programa repetindo um ciclo básico para cada instrução.

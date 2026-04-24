@@ -1,3 +1,9 @@
+---
+description: >-
+  Nesta página do Conteúdo 6, você vai entender funções com condicionais de forma
+  progressiva, com foco no essencial para iniciantes.
+---
+
 # Funções com condicionais
 
 Funções podem conter `if`, `elsif`, `else` e decidir qual valor retornar.

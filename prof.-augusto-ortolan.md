@@ -1,3 +1,9 @@
+---
+description: >-
+  Apresentação do professor responsável pela disciplina, com informações de
+  contato e contexto profissional.
+---
+
 # Prof. Augusto Ortolan
 
 <figure><img src=".gitbook/assets/Design sem nome.png" alt=""><figcaption></figcaption></figure>

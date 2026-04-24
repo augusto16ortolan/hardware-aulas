@@ -1,3 +1,9 @@
+---
+description: >-
+  Nesta página do Conteúdo 4, você vai entender arquitetura básica de um fpga de
+  forma progressiva, com foco no essencial para iniciantes.
+---
+
 # Arquitetura básica de um FPGA
 
 Para entender por que FPGAs são tão flexíveis, precisamos olhar para a arquitetura típica deles.

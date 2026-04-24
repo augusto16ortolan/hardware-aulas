@@ -1,3 +1,9 @@
+---
+description: >-
+  Introdução e visão geral do Conteúdo 3, com objetivos de aprendizagem e a
+  sequência do que será estudado.
+---
+
 # CONTEÚDO 3 - Comparação entre Hardware de PC e Raspberry Pi
 
 Até aqui, você aprendeu que:

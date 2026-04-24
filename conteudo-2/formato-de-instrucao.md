@@ -1,3 +1,9 @@
+---
+description: >-
+  Nesta página do Conteúdo 2, você vai entender formato de instrução (campos) de
+  forma progressiva, com foco no essencial para iniciantes.
+---
+
 # Formato de instrução (campos)
 
 Uma instrução de máquina, no fundo, é um conjunto de bits. Para a CPU conseguir interpretar esses bits, a instrução é dividida em **campos**.

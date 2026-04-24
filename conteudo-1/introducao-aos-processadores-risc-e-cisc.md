@@ -1,3 +1,9 @@
+---
+description: >-
+  Introdução e visão geral do Conteúdo 1, com objetivos de aprendizagem e a
+  sequência do que será estudado.
+---
+
 # CONTEÚDO 1 - Processadores RISC e CISC
 
 Nesta aula, vamos entender **duas grandes “famílias de ideias”** sobre como um processador pode ser projetado: **CISC** e **RISC**.

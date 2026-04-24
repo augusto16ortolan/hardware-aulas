@@ -1,3 +1,9 @@
+---
+description: >-
+  Nesta página do Conteúdo 4, você vai entender dispositivos lógicos programáveis
+  (plds) de forma progressiva, com foco no essencial para iniciantes.
+---
+
 # Dispositivos lógicos programáveis (PLDs)
 
 ## O que são PLDs?

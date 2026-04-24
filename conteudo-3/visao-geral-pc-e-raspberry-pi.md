@@ -1,3 +1,9 @@
+---
+description: >-
+  Nesta página do Conteúdo 3, você vai entender visão geral: pc e raspberry pi de
+  forma progressiva, com foco no essencial para iniciantes.
+---
+
 # Visão geral: PC e Raspberry Pi
 
 Antes de comparar peças e números, vamos entender o que cada plataforma é.
