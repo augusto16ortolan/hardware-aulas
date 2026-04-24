@@ -14,4 +14,4 @@ Este repositório reúne os conteúdos da disciplina de **Hardware**, organizado
 ## Conteúdos
 
 - [CONTEÚDO 1 - Processadores RISC e CISC](conteudo-1-processadores-risc-e-cisc/README.md)
-
+- [CONTEÚDO 2 - Instruções de máquina](conteudo-2-instrucoes-de-maquina/README.md)
